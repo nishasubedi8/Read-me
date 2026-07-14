@@ -1,5 +1,5 @@
 # 💫 About Me:
-projects and assignments as part of a Web Development Bootcamp<br>beginner-friendly web dev projects with fellow learners<br>understanding JavaScript and AI/ML fundamentals<br>"HTML, CSS, and Javascript through a Web DEvelopment BOotcamp<br>my journey learning to code as a beginner<br>I love photography and traveling <br>I love to explore the every part of the Nepal
+projects and assignments as part of a Web Development Bootcamp<br>beginner-friendly web dev projects with fellow learners<br>understanding JavaScript and AI/ML fundamentals<br>"HTML, CSS, and Javascript through a Web DEvelopment Bootcamp<br>my journey learning to code as a beginner<br>I love photography and traveling <br>I love to explore every cultural diverse.
 
 
 # 💻 Tech Stack:
